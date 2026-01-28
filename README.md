@@ -1,4 +1,4 @@
-# ARCEP API Eligibility MCP Server
+# ARCEP Eligibility MCP Server
 
 An MCP server that queries the [ARCEP](https://www.arcep.fr/) eligibility API to check fixed-line telecom eligibilities for a given address in France.
 
